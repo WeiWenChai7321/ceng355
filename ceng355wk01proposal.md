@@ -49,21 +49,15 @@ Student Three:
 - [ ] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
-- Sensor/effector 2:
+- Sensor/effector 3:
 - Unsoldered connection description:   
 
 Student Four:
 - [ ] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
-- Sensor/effector 2:
+- Sensor/effector 4:
 - Unsoldered connection description:   
-
-####  System Requirements: List what sensors/effectors are to do.
-- Sensor/effector 1
-- Sensor/effector 2
-- Sensor/effector 3
-- Sensor/effector 4
 
 ####  GitHub repository link(s):
 [Example link - ezpark](https://github.com/AkashSingh8137/ezpark)
