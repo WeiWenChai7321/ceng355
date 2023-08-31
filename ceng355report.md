@@ -4,7 +4,7 @@ Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwis
 Insert here.[^1]
 [^1]: Technology Report Guidelines. OACETT, Revised June 2022. Available at: https://www.oacett.org/getmedia/bd3d7225-0236-49f0-a6c5-8589d44ff7cf/2022_TR_Guidelines_-_Updated_Version_-_Sept_2022.pdf.aspx
 ## Proposal/Project Specifications   
-[Link to proposal](https://github.com/PrototypeZone/ceng355wk01proposal/README.md).   
+[Link to proposal](https://github.com/PrototypeZone/ceng355/blob/main/ceng355wk01proposal.md).   
 ## Executive Summary   
 Insert from proposal.     
 
