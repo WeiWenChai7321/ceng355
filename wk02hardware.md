@@ -1,10 +1,10 @@
-# Mobile Status Update
+# Harware Status Update
 ## Recent and current progress
-Student B writes here
+Student A writes here
 ## Problems and hyperlinks/urls to potential solutions
-Student B writes here
+Student A writes here
 ## Financial
 ### Expenditures since previous report
-Student B writes here
+Student A writes here
 ### Planned future expenses
-Student B writes here
+Student A writes here
