@@ -6,4 +6,4 @@
 - Wednesday session whole class will take place in our regular room.
 - Thursday Feb 16th workshop then class, [registration.](https://humber.libcal.com/event/3716918)
 ## Status update
-- [database.md](database.md) by student C.
+- [wk04database.md](wk04database.md) by student C.
