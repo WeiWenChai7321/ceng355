@@ -1,13 +1,10 @@
 ## List of projects
-1. [Bins](https://github.com/orgs/PrototypeZone/teams/eden/repositories)
-2. [Flight](https://github.com/orgs/PrototypeZone/teams/infinitech/repositories)
-3. [Arcade](https://github.com/orgs/PrototypeZone/teams/nika/repositories)
-4. [Parking](https://github.com/orgs/PrototypeZone/teams/smart-parking/repositories)
-5. [Covid entry](https://github.com/orgs/PrototypeZone/teams/sunnyside-tecnhnology/repositories)
-6. [Speaker](https://github.com/orgs/PrototypeZone/teams/the-second-dawn/repositories)
-7. [air-monitor](https://github.com/orgs/PrototypeZone/teams/air-monitor/repositories)
-8. [Docky](https://github.com/orgs/PrototypeZone/teams/the-docky/repositories)
-9. [future-home](https://github.com/orgs/PrototypeZone/teams/future-home/repositories)
-10. [irrigation](https://github.com/orgs/PrototypeZone/teams/aqua-solutions/repositories)
-11. [Parking](https://github.com/orgs/PrototypeZone/teams/automated-parking/repositories)
-12. [REAH](https://github.com/orgs/PrototypeZone/teams/keah/repositories)
+1. [PlantCare](https://github.com/orgs/PrototypeZone/teams/plantcare/repositories)
+2. [Barrier](https://github.com/orgs/PrototypeZone/teams/barrier/repositories)
+3. 
+4. [Housefy](https://github.com/orgs/PrototypeZone/teams/housefy/repositories)
+5. [EveePet](https://github.com/orgs/PrototypeZone/teams/eveepet/repositories)
+6. [SmartAqua](https://github.com/orgs/PrototypeZone/teams/smartaqua/repositories)
+7. [InfantHealth](https://github.com/orgs/PrototypeZone/teams/infanthealth/repositories)
+8. 
+9. [Waste](https://github.com/orgs/PrototypeZone/teams/waste/repositories)
