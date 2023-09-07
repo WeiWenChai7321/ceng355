@@ -7,21 +7,21 @@ Fall 2023 Class Schedule (Tentative)
 
 | Week | A            | Topics/Assignment                                                                                          | Due %   |
 |------|--------------|------------------------------------------------------------------------------------------------------------|---------|
-| 1    | 2023-01-09   | Course Introduction and Schedule, Group Setup, Group Project Proposal                                      | 5       |
-| 2    | 2023-01-16   | Hardware status by student A, declaration of authorship                                                    | 5       |
-| 3    | 2023-01-23   | Mobile status report by student B, laser cutting                                                           | 5       |
-| 4    | 2023-01-30   | Database status report by student C, 3D printing (incl. library session sign up)                           | 5       |
-| 5    | 2023-02-06   | Hardware connectivity status report by student D, firmware                                                 | 5       |
-| 6    | 2023-02-13   | Hardware/Firmware, Database, and Mobile App Independent Demonstration, all parts should work independently | 10      |
-| 7    | *Family Day* | KiCad, Laser cutting, 3D Printing continued                                                                |         |
-|      | 2023-02-27   | *Reading Week, No Class Scheduled*                                                                         |         |
-| 8    | 2023-03-06   | Poster Draft, unit and production testing (March 10th Midterm Grades Due)                                  | 5       |
-| 9    | 2023-03-13   | Enclosure and integration status                                                                           | 5       |
-| 10   | 2023-03-20   | Report Checklist                                                                                           | 5       |
-| 11   | 2023-03-27   | Presentation due, preliminary demonstrations                                                               | 5       |
-| 12   | 2023-04-03   | Troubleshooting, Project Demonstration                                                                     | 5       |
-| 13   | 2023-04-10   | Group Final Presentation/Poster                                                                            | 20      |
-| 14   | 2023-04-17   | Capstone Showcase                                                                                          | 20      |
+| 1    | 2023-09-07   | Course Introduction and Schedule, Group Setup, Group Project Proposal                                      | 5       |
+| 2    | 2023-09-14   | Hardware status by student A, declaration of authorship                                                    | 5       |
+| 3    | 2023-09-21   | Mobile status report by student B, laser cutting                                                           | 5       |
+| 4    | 2023-09-28   | Database status report by student C, 3D printing (incl. library session sign up)                           | 5       |
+| 5    | 2023-10-05   | Hardware connectivity status report by student D, firmware                                                 | 5       |
+| 6    | 2023-10-12   | Hardware/Firmware, Database, and Mobile App Independent Demonstration, all parts should work independently | 10      |
+| 7    | 2023-10-19   | KiCad, Laser cutting, 3D Printing continued                                                                |         |
+|      | 2023-10-26   | *Reading Week, No Class Scheduled*                                                                         |         |
+| 8    | 2023-11-02   | Poster Draft, unit and production testing (March 10th Midterm Grades Due)                                  | 5       |
+| 9    | 2023-11-09   | Enclosure and integration status                                                                           | 5       |
+| 10   | 2023-11-16   | Report Checklist                                                                                           | 5       |
+| 11   | 2023-11-23   | Presentation due, preliminary demonstrations                                                               | 5       |
+| 12   | 2023-11-30   | Troubleshooting, Project Demonstration                                                                     | 5       |
+| 13   | 2023-12-07   | Group Final Presentation/Poster                                                                            | 20      |
+| 14   | 2023-12-14   | Capstone Showcase                                                                                          | 20      |
 |      |              |                                                                                                            | **100** |
 
  
