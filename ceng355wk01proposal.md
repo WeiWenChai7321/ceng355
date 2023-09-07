@@ -4,13 +4,13 @@
 2. [ ] :factory: Building Automation: e.g. Greenhouse/SolarPanel/Home
 3. [ ] :movie_camera: Consumer: e.g. Entertainment Protocol DMX/Baby Monitoring Project
 4. [ ] :mortar_board: Education: e.g. Robust Hackable Educational Project
-5. [ ] :robot: Robotics: e.g. Control/Navigation/Dashboard
+5. [x :robot: Robotics: e.g. Control/Navigation/Dashboard
 6. [ ] :ski: Health and Wellness: e.g. Wearable
 ####  Project Title: 
-Replace this with your title
+Evee the Pet Companion
 
 ####  Executive Summary/Description of the Project (75 to 100 words): 
-Write here
+"Evee the Pet Companion" is a pet monitoring robot that aims to bridge the interactional gap between pets and their owners. Moving beyond the confines of static pet cameras, Evee incorporates a mobile robot equipped with a camera, microphone, treat dispenser, and interactive toys. The uniqueness lies in its ability to move around the house, controlled via a specially designed app, enabling owners to interact with their pets in real-time. Additionally, Evee also features obstacle avoidance, line following, and image capture/storage. Ultimately, Evee not only enhances pet interaction but also serves as a home security device.
 
 ####  Has this project been approved by all parties for posting (Y/N)?
 -  [x] Yes
@@ -25,34 +25,34 @@ Write here
 </details>
 
 ####  List of Names of Students Involved in Project (first and last names and separate members by a comma):
-First Last, One Two
+Wei Wen (Chloe) Chai, Jennifer Nguyen, John Aquino, Ubay Abdulaziz
 
 ####  Planned contact email for the [Expo submission form](https://appliedtechnology.humber.ca/shows/past-shows/advanced-manufacturing-projects/advanced-manufacturing-student-submission-form.html)
-example_at_example_dot_com
+sleepdeprived.evee@gmail.com
 
 ####  For each individual student state whether they have a complete parts kit, a multimeter, what development platform they have, what sensors/effectors they have along with system Requirements (List what sensors/effectors are to do), functionalty of prototype/describe any unsoldered connections.
-Student One:
-- [ ] Complete parts kit
-- [ ] Multimeter
+Wei Wen (Chloe) Chai:
+- [x] Complete parts kit
+- [x] Multimeter
 - Development platform: Broadcom single board computer
-- Sensor/effector 1:
-- Unsoldered connection description:   
+- Sensor/effector 1: HC-SR04 Ultrasonic Distance Sensor
+- Unsoldered connection description: None - all are soldered.
 
-Student Two:
+Jennifer Nguyen:
 - [ ] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
 - Sensor/effector 2:
 - Unsoldered connection description:   
 
-Student Three:
+John Aquino:
 - [ ] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
 - Sensor/effector 3:
 - Unsoldered connection description:   
 
-Student Four:
+Ubay Abdulaziz:
 - [ ] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
@@ -60,10 +60,10 @@ Student Four:
 - Unsoldered connection description:   
 
 ####  GitHub repository link(s):
-[Example link - ezpark](https://github.com/AkashSingh8137/ezpark)
+[GitHub - Evee the Pet Companion](https://github.com/WeiWenChai7321/EveeThePetCompanion4.git)
 
 ####  Google Play App download link:
-[Example link - EZPARK](https://play.google.com/store/apps/details?id=ca.ezlock.it.ezpark&pli=1)
+[Google Play Page - Evee the Pet Companion](https://play.google.com/store/apps/details?id=ca.sleepdeprived.eveethepetcompanion)
 
 #### Hours per student:
 $14\*3=42$ in class hours, $14\*3=42+$ outside of class.
@@ -84,4 +84,4 @@ flowchart LR;RaspberryPi<-->Firebase;Firebase<-->Android;
 RaspberryPi<-.->Bluetooth;Bluetooth<-.->Android;Arduino<-->RaspberryPi;Arduino--->Stepper; LoadCellHX711--->RaspberryPi; RaspberryPi--->240x320LCD;RaspberryPi--->Relay;Relay--->Solenoid;
 ```
 ####  Mandate: 
-Self funded (unless a sponsor has contractually agreed to contribute).
+Self funded.
